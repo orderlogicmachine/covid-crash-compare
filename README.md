@@ -20,7 +20,7 @@ I have implemented the following features:
 
 - Write custom functions to operate on your data.
 
-- - For clarity, the operations I perform on my data are not contained within functions, but they are not stock operations either.
+    - For clarity, the operations I perform on my data are not contained within functions, but they are not stock operations either.
 
 - Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.
 
