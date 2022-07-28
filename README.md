@@ -1,4 +1,4 @@
-# studious-engine
+# covid-crash-compare
 
 ## README
 
