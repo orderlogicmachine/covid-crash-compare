@@ -8,6 +8,8 @@ Hello everyone! Welcome to my project for the first term of Code Louisville's Da
 
 #### Purpose
 
+*Important: this project is written in Jupyter Notebook and requires a Jupyter installation to run. Jupyter can be installed via `pip install notebook`*
+
 This project is intended to analyze, visualize, and compare the traffic crash data of Louisville and Cincinnati in the prior three years, so as to include just before and during the COVID-19 pandemic. I chose this period because of the dramatic nationwide drop in travel (and, therefore, collisions) in March 2020 and [recent analyses](https://www.nsc.org/newsroom/nsc-analysis-traffic-is-back-to-prepandemic-levels) showing that traffic death rates are now higher than in 2019. I had difficulty finding data or analysis dealing with smaller US cities and so decided to try and make some of my own.
 
 #### Features
